@@ -1,16 +1,1 @@
-# mood_maker_kp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A mood tracking app designed to help users record and manage their emotions with ease. Features include an intuitive emotion logging system, allowing users to track their daily moods, and a history section that provides insights into mood patterns over time. The app also offers a graphical interface to visualize mood trends, making it easier to identify emotional patterns. Additionally, users receive push notifications with daily motivational quotes to inspire positivity and mental well-being.
