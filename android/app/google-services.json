@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1042709870497",
+    "project_id": "moodmakeraccessibility",
+    "storage_bucket": "moodmakeraccessibility.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042709870497:android:796c4ffc1c15c924867de0",
+        "android_client_info": {
+          "package_name": "com.accessibilityx.memood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTYitIM0pdyHirpGJjodzr45vIYBj9YPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042709870497:android:bfaa62a471b2f55d867de0",
+        "android_client_info": {
+          "package_name": "com.example.mood_maker_kp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTYitIM0pdyHirpGJjodzr45vIYBj9YPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
